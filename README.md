@@ -10,7 +10,7 @@ This survey does not offer compensation, but it is likely that you will gain som
 
 The surveys do not collect your information unless you are a CU Boulder Linguistics undergraduate student taking this survey for extra credit. Please note that if you are  CU Boulder Linguistics undergraduate student, you may only take the survey one time for extra credit for one course.
 
-The surveys will close around the date of November 15th, 2025.
+The surveys will close around the date of: #November 15th, 2025
 
 To ensure that all 4 surveys end up with equal distribution, please click on the survey link that corresponds to your birthday month.
 
