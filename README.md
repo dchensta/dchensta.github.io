@@ -12,10 +12,25 @@ The surveys do not collect your information unless you are a CU Boulder Linguist
 
 To ensure that all 4 surveys end up with equal distribution, please click on the survey link that corresponds to your birthday month.
 
-March, April, August:              Survey A    https://forms.gle/zS6HAS84QM7F1p9b8
+# March, April, August:              
 
-January, June, November:           Survey B    https://forms.gle/ZhVd3ZuJdQD7SEw57
+Survey A    
 
-February, July, October:           Survey C    https://forms.gle/qjnxJZA3J8TEBaH27
+https://forms.gle/zS6HAS84QM7F1p9b8
 
-May, September, December:          Survey D    https://forms.gle/UHoiubh6fW5k4h4Y7
+# January, June, November:          
+
+Survey B    
+
+https://forms.gle/ZhVd3ZuJdQD7SEw57
+
+# February, July, October:           
+
+Survey C    
+
+https://forms.gle/qjnxJZA3J8TEBaH27
+
+# May, September, December:          
+Survey D    
+
+https://forms.gle/UHoiubh6fW5k4h4Y7
