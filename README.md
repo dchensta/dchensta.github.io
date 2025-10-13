@@ -12,6 +12,10 @@ The surveys do not collect your information unless you are a CU Boulder Linguist
 
 To ensure that all 4 surveys end up with equal distribution, please click on the survey link that corresponds to your birthday month.
 
+
+
+
+
 # ENGLISH SURVEYS
 ## March, April, August:               
 
