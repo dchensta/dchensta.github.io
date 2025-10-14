@@ -35,3 +35,13 @@ To ensure that all 4 surveys end up with equal distribution, please click on the
 ## May, September, December:          
 
 [Survey D](https://forms.gle/UHoiubh6fW5k4h4Y7)
+
+# CHINESE SURVEYS
+Coming soon!
+
+# SPANISH SURVEYS
+Coming soon!
+
+If you have questions about the research, you can contact the Principal Investigator at: daniel.chen-1@colorado.edu.
+
+If you have concerns or complaints about the research you can contact the CU Boulder IRB at (303) 735-3702 or irbadmin@colorado.edu.
