@@ -42,6 +42,9 @@ Coming soon!
 # SPANISH SURVEYS
 Coming soon!
 
-If you have questions about the research, you can contact the Principal Investigator at: daniel.chen-1@colorado.edu.
 
-If you have concerns or complaints about the research you can contact the CU Boulder IRB at (303) 735-3702 or irbadmin@colorado.edu.
+# Contact Researcher
+
+If you have questions about the research, you can contact the Principal Investigator at: [daniel.chen-1@colorado.edu](daniel.chen-1@colorado.edu)
+
+If you have concerns or complaints about the research you can contact the CU Boulder IRB at (303) 735-3702 or [irbadmin@colorado.edu](irbadmin@colorado.edu).
