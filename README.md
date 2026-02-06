@@ -37,7 +37,20 @@ To ensure that all 4 surveys end up with equal distribution, please click on the
 [Survey D](https://forms.gle/UHoiubh6fW5k4h4Y7)
 
 # CHINESE SURVEYS
-Coming soon!
+## March, April, August:     
+[Survey D](https://forms.gle/vganodz6nqXFhWTC7)
+
+## January, June, November:            
+
+[Survey B](https://forms.gle/JAkgQVZbkVa4fiNQ9)
+
+## February, July, October:          
+
+[Survey A](https://forms.gle/xyv6fS6tCqbWu7iE9)
+
+## May, September, December:          
+
+[Survey C](https://forms.gle/YAxgGzsD5RS8QdSKA)
 
 # SPANISH SURVEYS
 Coming soon!
