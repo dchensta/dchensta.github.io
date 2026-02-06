@@ -8,8 +8,6 @@ Including reading the pre-description of middle voice, completing the survey sho
 
 This survey does not offer compensation, but it is likely that you will gain some invaluable wordsmithing intuitions that might come in handy for heated game nights or relaxing crossword clue-sleuthing!
 
-The surveys do not collect your information unless you are a CU Boulder Linguistics undergraduate student taking this survey for extra credit. Please note that if you are a CU Boulder Linguistics undergraduate student, you may only take the survey one time for extra credit for one course.
-
 All surveys from all languages are open until:
 ## March 13th, 2026
 
