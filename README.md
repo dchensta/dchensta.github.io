@@ -9,7 +9,7 @@ Including reading the pre-description of middle voice, completing the survey sho
 This survey does not offer compensation, but it is likely that you will gain some invaluable wordsmithing intuitions that might come in handy for heated game nights or relaxing crossword clue-sleuthing!
 
 All surveys from all languages are open until:
-## March 13th, 2026
+# March 13th, 2026
 
 To ensure that all 4 surveys end up with equal distribution, please click on the survey link that corresponds to your birthday month.
 
