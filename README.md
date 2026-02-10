@@ -11,7 +11,7 @@ This survey does not offer compensation, but it is likely that you will gain som
 All surveys from Chinese and Spanish are open until:
 # March 13th, 2026
 
-To ensure that all 4 surveys end up with equal distribution, please click on the survey link that corresponds to your birthday month.
+To ensure that all 4 surveys within a language end up with equal distribution, please click on the survey link that corresponds to your birthday month.
 
 
 # CHINESE SURVEYS
