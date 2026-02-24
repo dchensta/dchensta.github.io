@@ -33,7 +33,20 @@ To ensure that all 4 surveys within a language end up with equal distribution, p
 # SPANISH SURVEYS
 Coming soon!
 
+## March, April, August:     
+[Survey A](https://forms.gle/Cjfc6sgSzMPyh74d9)
 
+## January, June, November:            
+
+[Survey B](https://forms.gle/CPp6PVRRB4tmpvrLA)
+
+## February, July, October:          
+
+[Survey C](https://forms.gle/jkMSNXWghDH7N33y5)
+
+## May, September, December:          
+
+[Survey D](https://forms.gle/n3oQoqTT6wFhfpgB6)
 
 
 # Contact Researcher
